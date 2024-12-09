@@ -56,6 +56,7 @@ while(continuar) {
 			case 2:
 				
 			System.out.println("resta");
+                        System.out.println("El resultado de la resta :");
 			break;
 			case 3:
 			System.out.println("multiplicacion");
