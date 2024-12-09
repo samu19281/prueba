@@ -59,6 +59,7 @@ while(continuar) {
 			break;
 			case 3:
 			System.out.println("multiplicacion");
+                        System.out.println("El resultado de la multiplicacion:");
 			
 		break;
 	default:
