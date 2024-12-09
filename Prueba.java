@@ -52,6 +52,7 @@ while(continuar) {
 				
 				
 			System.out.println(" suma");
+                        System.out.println(" EL resultado de la suma es:")
 			break;
 			case 2:
 				
