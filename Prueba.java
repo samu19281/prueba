@@ -61,6 +61,7 @@ while(continuar) {
 			break;
 			case 3:
 			System.out.println("multiplicacion");
+                        System.out.println("El resultado de la multiplicacion:"+ num1 * num2);
 			
 		break;
 	default:
